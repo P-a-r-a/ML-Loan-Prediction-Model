@@ -1,4 +1,4 @@
-Loan Approval & Credit Risk Analysis
+## Loan Approval & Credit Risk Analysis
 This project utilizes Machine Learning to predict loan eligibility and estimate maximum loan amounts for potential clients. By implementing Decision Tree Regression and Classification models, the system evaluates borrower risk based on financial and demographic attributes.
 
 ## Project Overview
